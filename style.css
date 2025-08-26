@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(250, 223, 227);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    position: fixed;
+    background-color: blueviolet;
+    padding: 50px;
+}
